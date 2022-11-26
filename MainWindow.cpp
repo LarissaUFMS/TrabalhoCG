@@ -46,8 +46,8 @@ MainWindow::MainWindow(int width, int height) :
     //_animate = false;
     //_radius = 0;
     //_speed = 0.01f;
-    //_incrAltura = 0.0f; //Incremento na altura por revolução
-    //_incrLargura = 0.0f; //Incremento na Largura por revolução
+    //_incrAltura = 0.0f; //Incremento na altura por revoluÃ§Ã£o
+    //_incrLargura = 0.0f; //Incremento na Largura por revoluÃ§Ã£o
     //_nRev = 1.0f;
     //_deslX = 2.0f;
     //_nPontos = 3;
@@ -157,7 +157,6 @@ MainWindow::gui()
     ImGui::SliderFloat("Num Revol", &_nRev, 0.1f, 20.0f);
     ImGui::SliderFloat("Desl. X", &_deslX, 2.0f, 100.0f);
     ImGui::SliderInt("SubDivisoes", &_nSubdiv, 3, 40);
-    ImGui::SliderFloat("Escala", &_escala, 1.0f, 4.0f);
     ImGui::Separator();
 
     ImGui::Text("Application average %.3f ms/frame (%.1f FPS)",
