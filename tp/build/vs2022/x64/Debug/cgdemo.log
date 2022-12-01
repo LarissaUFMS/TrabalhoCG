@@ -1,0 +1,26 @@
+﻿  Geratriz.cpp
+  Main.cpp
+  MainWindow.cpp
+  MeshWriter.cpp
+  ProxyEspiral.cpp
+C:\Users\laris\OneDrive\Documentos\Ds-master\apps\tp\ProxyEspiral.cpp(27,16): warning C4244: 'inicializando': conversão de 'real' para 'int', possível perda de dados
+          with
+          [
+              real=double
+          ]
+  ProxyTorcao.cpp
+C:\Users\laris\OneDrive\Documentos\Ds-master\apps\tp\ProxyTorcao.cpp(24,16): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\laris\OneDrive\Documentos\Ds-master\apps\tp\ProxyTorcao.cpp(25,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\laris\OneDrive\Documentos\Ds-master\apps\tp\ProxyTorcao.cpp(26,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\laris\OneDrive\Documentos\Ds-master\apps\tp\ProxyTorcao.cpp(100,9): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  RayTracer.cpp
+  AbstractParser.cpp
+  Buffer.cpp
+  ErrorHandler.cpp
+  Expression.cpp
+  FileBuffer.cpp
+  ReaderBase.cpp
+  SceneReader.cpp
+  Scope.cpp
+  Gerando Código...
+  cgdemo.vcxproj -> C:\Users\laris\OneDrive\Documentos\Ds-master\apps\tp\cgdemo.exe
